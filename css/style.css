@@ -1,0 +1,111 @@
+*{
+   padding: 0px;
+   margin: 0px;
+  
+}
+html,body{
+	 height: 100%;
+
+}
+
+header{
+	width: 100%;
+	height:40px;
+	line-height: 40px;
+	color: white;
+	background: transparent;
+
+
+}
+
+#Beef{
+  display: none;
+}
+#Sushi{
+  display: none;
+}
+
+.sub_header{
+  width: 40%;
+  height:40px;
+  line-height: 40px;
+  color: white;
+}
+
+.aline_text{
+  height:100px;
+  line-height: 100px;  
+}
+.aline_text_50{
+  height:50px;
+  line-height: 50px;  
+}
+.h_por{
+	height:initial;
+}
+.fl{
+  float: left;
+
+}
+.fr{
+  float: right;
+
+}
+.h_largo{
+  position: absolute;
+  margin: 0 auto;
+  width: 100%;
+  text-align:center;
+  background:transparent;
+
+}
+
+.lr{
+  position: relative;
+  margin: 0 auto;
+  width: 98%;
+  text-align:center;
+  background:gray;
+
+  margin-top: 20px;
+}
+
+.padding_15{
+  margin: 15px;
+}
+.padding_r15{
+  padding-right:15px;
+}
+.maring_1{
+  margin-left:1%;
+
+}
+/*border*/
+.border_topn{
+  border-top: none !important;
+}
+.border_1{
+  border: 2px solid;
+}
+.border_bottom_2{
+  border-bottom: 2px solid;
+}
+.border_left_2{
+  border-left: 2px solid;
+}
+.border_c_transp{
+  border-color: transparent;
+}
+/*border color*/
+.borlder_c_black{
+  border-color: black;
+}
+/*backgound color*/
+.back_gray{
+  background: #989898;
+}
+/*font tamaño*/
+.font_s_20{
+  font-size: 20px;
+}
+
